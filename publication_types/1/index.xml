@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Niladri Chatterji</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Online learning with kernel losses</title>
+      <link>/publication/online_kernel_learning/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/online_kernel_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo</title>
+      <link>/publication/langevin_variancereduction/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/langevin_variancereduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underdamped Langevin MCMC: A non-asymptotic analysis</title>
+      <link>/publication/underdamped/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/underdamped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating minimization for dictionary learning: Local Convergence Guarantees</title>
+      <link>/publication/alternatingminimization/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/alternatingminimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

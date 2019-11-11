@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Niladri Chatterji</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Behnam Neyshabur</title>
+      <link>/authors/behnam-neyshabur/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/behnam-neyshabur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanie Sedghi</title>
+      <link>/authors/hanie-sedghi/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hanie-sedghi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niladri S. Chatterji</title>
+      <link>/authors/niladri-s.-chatterji/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/niladri-s.-chatterji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jelena Diakonikolas*</title>
+      <link>/authors/jelena-diakonikolas/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jelena-diakonikolas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael I. Jordan</title>
+      <link>/authors/michael-i.-jordan/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-i.-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter L. Bartlett</title>
+      <link>/authors/peter-l.-bartlett/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-l.-bartlett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vidya Muthukumar</title>
+      <link>/authors/vidya-muthukumar/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vidya-muthukumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Flammarion</title>
+      <link>/authors/nicolas-flammarion/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-flammarion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiang Cheng</title>
+      <link>/authors/xiang-cheng/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xiang-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-An Ma</title>
+      <link>/authors/yi-an-ma/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-an-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yasin Abbasi-Yadkori</title>
+      <link>/authors/yasin-abbasi-yadkori/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yasin-abbasi-yadkori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aldo Pacchiano*</title>
+      <link>/authors/aldo-pacchiano/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/aldo-pacchiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashwin Tulapurkar</title>
+      <link>/authors/ashwin-tulapurkar/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/ashwin-tulapurkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bhaskaran Muralidharan</title>
+      <link>/authors/bhaskaran-muralidharan/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/bhaskaran-muralidharan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a fifth year PhD student advised by &lt;a href=&#34;https://www.stat.berkeley.edu/~bartlett/&#34; target=&#34;_blank&#34;&gt;Peter Bartlett&lt;/a&gt; and Michael DeWeese. I am associated with the Berkeley Artificial Intelligence Research group (BAIR). My research interests lie at the intersection of Theoretical Statistics and Machine Learning. Some areas I am interested in and have worked on in the past include, Monte Carlo methods, optimization guarantees for structured non-convex problems and Online learning with partial information (bandit feedback).&lt;/p&gt;
+
+&lt;p&gt;I graduated from Indian Institute of Technology Bombay with a dual degree B.Tech+M.Tech in Engineering Physics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

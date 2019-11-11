@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vidya Muthukumar | Niladri Chatterji</title>
+    <link>/authors/vidya-muthukumar/</link>
+      <atom:link href="/authors/vidya-muthukumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vidya Muthukumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Vidya Muthukumar</title>
+      <link>/authors/vidya-muthukumar/</link>
+    </image>
+    
+    <item>
+      <title>OSOM: A Simultaneously Optimal Algorithm for Multi-Armed and Linear Contextual Bandits</title>
+      <link>/publication/model_selection/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/model_selection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

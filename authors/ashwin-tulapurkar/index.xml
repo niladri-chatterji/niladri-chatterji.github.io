@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin Tulapurkar | Niladri Chatterji</title>
+    <link>/authors/ashwin-tulapurkar/</link>
+      <atom:link href="/authors/ashwin-tulapurkar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwin Tulapurkar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Ashwin Tulapurkar</title>
+      <link>/authors/ashwin-tulapurkar/</link>
+    </image>
+    
+    <item>
+      <title>Enhancement of Spin-transfer torque switching via resonant tunneling</title>
+      <link>/publication/enhancement_spin_torque/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/enhancement_spin_torque/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

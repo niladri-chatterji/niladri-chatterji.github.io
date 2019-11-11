@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aldo Pacchiano* | Niladri Chatterji</title>
+    <link>/authors/aldo-pacchiano/</link>
+      <atom:link href="/authors/aldo-pacchiano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aldo Pacchiano*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Aldo Pacchiano*</title>
+      <link>/authors/aldo-pacchiano/</link>
+    </image>
+    
+    <item>
+      <title>Online learning with kernel losses</title>
+      <link>/publication/online_kernel_learning/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/online_kernel_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

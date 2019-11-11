@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasin Abbasi-Yadkori | Niladri Chatterji</title>
+    <link>/authors/yasin-abbasi-yadkori/</link>
+      <atom:link href="/authors/yasin-abbasi-yadkori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yasin Abbasi-Yadkori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Yasin Abbasi-Yadkori</title>
+      <link>/authors/yasin-abbasi-yadkori/</link>
+    </image>
+    
+    <item>
+      <title>Sharp convergence rates for Langevin dynamics in the nonconvex setting</title>
+      <link>/publication/sharp_rates/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sharp_rates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

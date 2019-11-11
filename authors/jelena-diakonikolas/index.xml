@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jelena Diakonikolas* | Niladri Chatterji</title>
+    <link>/authors/jelena-diakonikolas/</link>
+      <atom:link href="/authors/jelena-diakonikolas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jelena Diakonikolas*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Jelena Diakonikolas*</title>
+      <link>/authors/jelena-diakonikolas/</link>
+    </image>
+    
+    <item>
+      <title>Langevin Monte Carlo without Smoothness</title>
+      <link>/publication/smoothness_langevin/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smoothness_langevin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

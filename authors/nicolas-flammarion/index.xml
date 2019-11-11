@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Flammarion | Niladri Chatterji</title>
+    <link>/authors/nicolas-flammarion/</link>
+      <atom:link href="/authors/nicolas-flammarion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Flammarion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Nicolas Flammarion</title>
+      <link>/authors/nicolas-flammarion/</link>
+    </image>
+    
+    <item>
+      <title>Is There an Analog of Nesterov Acceleration for MCMC?</title>
+      <link>/publication/nesterov_mcmc/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nesterov_mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo</title>
+      <link>/publication/langevin_variancereduction/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/langevin_variancereduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

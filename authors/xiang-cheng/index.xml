@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiang Cheng | Niladri Chatterji</title>
+    <link>/authors/xiang-cheng/</link>
+      <atom:link href="/authors/xiang-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiang Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Xiang Cheng</title>
+      <link>/authors/xiang-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Is There an Analog of Nesterov Acceleration for MCMC?</title>
+      <link>/publication/nesterov_mcmc/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nesterov_mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharp convergence rates for Langevin dynamics in the nonconvex setting</title>
+      <link>/publication/sharp_rates/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sharp_rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underdamped Langevin MCMC: A non-asymptotic analysis</title>
+      <link>/publication/underdamped/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/underdamped/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
