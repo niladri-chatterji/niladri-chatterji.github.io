@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phil M. Long | Niladri Chatterji</title>
+    <link>/authors/phil-m.-long/</link>
+      <atom:link href="/authors/phil-m.-long/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phil M. Long</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Phil M. Long</title>
+      <link>/authors/phil-m.-long/</link>
+    </image>
+    
+    <item>
+      <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
+      <link>/publication/lower_bound_mcmc/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lower_bound_mcmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

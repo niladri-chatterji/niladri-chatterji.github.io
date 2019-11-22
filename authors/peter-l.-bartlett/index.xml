@@ -5,12 +5,20 @@
     <link>/authors/peter-l.-bartlett/</link>
       <atom:link href="/authors/peter-l.-bartlett/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter L. Bartlett</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Peter L. Bartlett</title>
       <link>/authors/peter-l.-bartlett/</link>
     </image>
+    
+    <item>
+      <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
+      <link>/publication/lower_bound_mcmc/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lower_bound_mcmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Langevin Monte Carlo without Smoothness</title>

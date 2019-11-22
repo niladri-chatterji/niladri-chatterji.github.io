@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/publication/lower_bound_mcmc/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-l.-bartlett/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phil-m.-long/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
   </url>
@@ -59,11 +74,6 @@
   
   <url>
     <loc>/authors/michael-i.-jordan/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peter-l.-bartlett/</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
   </url>
   
