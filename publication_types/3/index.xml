@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>3</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
       <link>/publication/lower_bound_mcmc/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/lower_bound_mcmc/</guid>
       <description></description>
     </item>
@@ -25,22 +25,6 @@
       <link>/publication/module_criticality/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/publication/module_criticality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Langevin Monte Carlo without Smoothness</title>
-      <link>/publication/smoothness_langevin/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/smoothness_langevin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OSOM: A Simultaneously Optimal Algorithm for Multi-Armed and Linear Contextual Bandits</title>
-      <link>/publication/model_selection/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/model_selection/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Niladri S. Chatterji</title>
+      <link>/authors/niladri-s.-chatterji/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/niladri-s.-chatterji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter L. Bartlett</title>
+      <link>/authors/peter-l.-bartlett/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-l.-bartlett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip M. Long</title>
+      <link>/authors/philip-m.-long/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/philip-m.-long/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behnam Neyshabur</title>
@@ -25,30 +49,6 @@
       <link>/authors/hanie-sedghi/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/hanie-sedghi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Niladri S. Chatterji</title>
-      <link>/authors/niladri-s.-chatterji/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/niladri-s.-chatterji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter L. Bartlett</title>
-      <link>/authors/peter-l.-bartlett/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-l.-bartlett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip M. Long</title>
-      <link>/authors/philip-m.-long/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/philip-m.-long/</guid>
       <description></description>
     </item>
     

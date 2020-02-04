@@ -5,7 +5,7 @@
     <link>/authors/niladri-s.-chatterji/</link>
       <atom:link href="/authors/niladri-s.-chatterji/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri S. Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri S. Chatterji</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
       <link>/publication/lower_bound_mcmc/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/lower_bound_mcmc/</guid>
       <description></description>
     </item>
