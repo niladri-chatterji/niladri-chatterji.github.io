@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri Chatterji</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Finite-sample analysis of interpolating linear classifiers in the overparameterized regime</title>
+      <link>/publication/classification_overparameterized/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/classification_overparameterized/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
