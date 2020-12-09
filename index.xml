@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri Chatterji</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>When does gradient descent with logistic loss find interpolating two-layer networks?</title>
+      <link>/publication/rich_interpolation/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rich_interpolation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Finite-sample analysis of interpolating linear classifiers in the overparameterized regime</title>
