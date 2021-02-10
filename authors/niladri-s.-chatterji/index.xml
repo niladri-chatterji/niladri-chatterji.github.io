@@ -5,12 +5,20 @@
     <link>/authors/niladri-s.-chatterji/</link>
       <atom:link href="/authors/niladri-s.-chatterji/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri S. Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri S. Chatterji</title>
       <link>/authors/niladri-s.-chatterji/</link>
     </image>
+    
+    <item>
+      <title>When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?</title>
+      <link>/publication/deep_interpolation/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/deep_interpolation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When does gradient descent with logistic loss find interpolating two-layer networks?</title>
@@ -113,14 +121,6 @@
       <link>/publication/enhancement_spin_torque/</link>
       <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
       <guid>/publication/enhancement_spin_torque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?</title>
-      <link>/publication/deep_interpolation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/deep_interpolation/</guid>
       <description></description>
     </item>
     

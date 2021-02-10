@@ -5,12 +5,20 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?</title>
+      <link>/publication/deep_interpolation/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/deep_interpolation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When does gradient descent with logistic loss find interpolating two-layer networks?</title>
@@ -57,14 +65,6 @@
       <link>/publication/sharp_rates/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <guid>/publication/sharp_rates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?</title>
-      <link>/publication/deep_interpolation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/deep_interpolation/</guid>
       <description></description>
     </item>
     
