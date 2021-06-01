@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Niladri S. Chatterji | Niladri Chatterji</title>
+    <title>Niladri S. Chatterji* | Niladri Chatterji</title>
     <link>/authors/niladri-s.-chatterji/</link>
       <atom:link href="/authors/niladri-s.-chatterji/index.xml" rel="self" type="application/rss+xml" />
-    <description>Niladri S. Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <description>Niladri S. Chatterji*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
-      <title>Niladri S. Chatterji</title>
+      <title>Niladri S. Chatterji*</title>
       <link>/authors/niladri-s.-chatterji/</link>
     </image>
+    
+    <item>
+      <title>On the theory of reinforcement learning with once-per-episode feedback</title>
+      <link>/publication/rl_trajectories/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rl_trajectories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When does gradient descent with logistic loss interpolate using deep networks with smoothed ReLU activations?</title>

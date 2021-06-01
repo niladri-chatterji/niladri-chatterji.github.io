@@ -5,12 +5,20 @@
     <link>/authors/michael-i.-jordan/</link>
       <atom:link href="/authors/michael-i.-jordan/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael I. Jordan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Michael I. Jordan</title>
       <link>/authors/michael-i.-jordan/</link>
     </image>
+    
+    <item>
+      <title>On the theory of reinforcement learning with once-per-episode feedback</title>
+      <link>/publication/rl_trajectories/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rl_trajectories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Langevin Monte Carlo without Smoothness</title>

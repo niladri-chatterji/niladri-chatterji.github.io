@@ -5,12 +5,20 @@
     <link>/authors/aldo-pacchiano/</link>
       <atom:link href="/authors/aldo-pacchiano/index.xml" rel="self" type="application/rss+xml" />
     <description>Aldo Pacchiano*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Aldo Pacchiano*</title>
       <link>/authors/aldo-pacchiano/</link>
     </image>
+    
+    <item>
+      <title>On the theory of reinforcement learning with once-per-episode feedback</title>
+      <link>/publication/rl_trajectories/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rl_trajectories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online learning with kernel losses</title>

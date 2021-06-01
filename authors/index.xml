@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Authors</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
-      <title>Niladri S. Chatterji</title>
+      <title>Aldo Pacchiano*</title>
+      <link>/authors/aldo-pacchiano/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/aldo-pacchiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael I. Jordan</title>
+      <link>/authors/michael-i.-jordan/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-i.-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niladri S. Chatterji*</title>
       <link>/authors/niladri-s.-chatterji/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>/authors/niladri-s.-chatterji/</guid>
       <description></description>
     </item>
@@ -23,7 +39,7 @@
     <item>
       <title>Peter L. Bartlett</title>
       <link>/authors/peter-l.-bartlett/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>/authors/peter-l.-bartlett/</guid>
       <description></description>
     </item>
@@ -57,14 +73,6 @@
       <link>/authors/jelena-diakonikolas/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jelena-diakonikolas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael I. Jordan</title>
-      <link>/authors/michael-i.-jordan/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-i.-jordan/</guid>
       <description></description>
     </item>
     
@@ -105,14 +113,6 @@
       <link>/authors/yasin-abbasi-yadkori/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <guid>/authors/yasin-abbasi-yadkori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aldo Pacchiano*</title>
-      <link>/authors/aldo-pacchiano/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/aldo-pacchiano/</guid>
       <description></description>
     </item>
     
