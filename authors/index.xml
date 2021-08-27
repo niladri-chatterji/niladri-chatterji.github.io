@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Niladri S. Chatterji*</title>
+      <link>/authors/niladri-s.-chatterji/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/niladri-s.-chatterji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter L. Bartlett</title>
+      <link>/authors/peter-l.-bartlett/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-l.-bartlett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip M. Long</title>
+      <link>/authors/philip-m.-long/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/philip-m.-long/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aldo Pacchiano*</title>
@@ -25,30 +49,6 @@
       <link>/authors/michael-i.-jordan/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>/authors/michael-i.-jordan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Niladri S. Chatterji*</title>
-      <link>/authors/niladri-s.-chatterji/</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/niladri-s.-chatterji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter L. Bartlett</title>
-      <link>/authors/peter-l.-bartlett/</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-l.-bartlett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip M. Long</title>
-      <link>/authors/philip-m.-long/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/philip-m.-long/</guid>
       <description></description>
     </item>
     

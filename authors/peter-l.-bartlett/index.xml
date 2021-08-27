@@ -5,12 +5,20 @@
     <link>/authors/peter-l.-bartlett/</link>
       <atom:link href="/authors/peter-l.-bartlett/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter L. Bartlett</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Peter L. Bartlett</title>
       <link>/authors/peter-l.-bartlett/</link>
     </image>
+    
+    <item>
+      <title>The interplay between implicit bias and benign overfitting in two-layer linear networks</title>
+      <link>/publication/benign_two_layer/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/benign_two_layer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the theory of reinforcement learning with once-per-episode feedback</title>
