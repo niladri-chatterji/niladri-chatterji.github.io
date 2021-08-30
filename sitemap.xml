@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bommasani-et-al./</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/foundation_models/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/aldo-pacchiano/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url>
@@ -100,11 +115,6 @@
   <url>
     <loc>/publication/module_criticality/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
