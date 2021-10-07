@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri Chatterji</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Foolish crowds support benign overfitting</title>
+      <link>/publication/foolish_crowd/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/foolish_crowd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The interplay between implicit bias and benign overfitting in two-layer linear networks</title>
