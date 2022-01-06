@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saminul Haque | Niladri Chatterji</title>
+    <link>/authors/saminul-haque/</link>
+      <atom:link href="/authors/saminul-haque/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saminul Haque</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Saminul Haque</title>
+      <link>/authors/saminul-haque/</link>
+    </image>
+    
+    <item>
+      <title>Is Importance Weighting Incompatible with Interpolating Classifiers?</title>
+      <link>/publication/importance_weights_polynomial/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/importance_weights_polynomial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
