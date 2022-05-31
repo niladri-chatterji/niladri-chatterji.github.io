@@ -5,12 +5,20 @@
     <link>/authors/tatsunori-hashimoto/</link>
       <atom:link href="/authors/tatsunori-hashimoto/index.xml" rel="self" type="application/rss+xml" />
     <description>Tatsunori Hashimoto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Tatsunori Hashimoto</title>
       <link>/authors/tatsunori-hashimoto/</link>
     </image>
+    
+    <item>
+      <title>Undersampling is a Minimax Optimal Robustness Intervention in Nonparametric Classification</title>
+      <link>/publication/undersampling_minimax/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/undersampling_minimax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Importance Weighting Incompatible with Interpolating Classifiers?</title>
