@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri Chatterji</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Undersampling is a Minimax Optimal Robustness Intervention in Nonparametric Classification</title>
+      <title>Deep linear networks can benignly overfit when shallow ones do</title>
+      <link>/publication/deep_shallow_benign/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/deep_shallow_benign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undersampling is a minimax optimal robustness intervention in nonparametric classification</title>
       <link>/publication/undersampling_minimax/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>/publication/undersampling_minimax/</guid>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Random Feature Amplification: Feature Learning and Generalization in Neural Networks</title>
+      <title>Random feature amplification: Feature learning and generalization in neural networks</title>
       <link>/publication/random_feature_amp/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/publication/random_feature_amp/</guid>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for Noisy Linear Data</title>
+      <title>Benign overfitting without linearity: Neural network classifiers trained by gradient descent for noisy linear data</title>
       <link>/publication/leaky_benign/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/publication/leaky_benign/</guid>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>Is Importance Weighting Incompatible with Interpolating Classifiers?</title>
+      <title>Is importance weighting incompatible with interpolating classifiers?</title>
       <link>/publication/importance_weights_polynomial/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/publication/importance_weights_polynomial/</guid>
@@ -61,7 +69,7 @@
     </item>
     
     <item>
-      <title>On the Opportunities and Risks of Foundation Models</title>
+      <title>On the opportunities and risks of foundation models</title>
       <link>/publication/foundation_models/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/publication/foundation_models/</guid>
@@ -101,7 +109,7 @@
     </item>
     
     <item>
-      <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
+      <title>Oracle lower bounds for stochastic gradient Markov chain Monte Carlo methods</title>
       <link>/publication/lower_bound_mcmc/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/lower_bound_mcmc/</guid>
@@ -117,7 +125,7 @@
     </item>
     
     <item>
-      <title>Langevin Monte Carlo without Smoothness</title>
+      <title>Langevin Monte Carlo without smoothness</title>
       <link>/publication/smoothness_langevin/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/smoothness_langevin/</guid>
@@ -125,7 +133,7 @@
     </item>
     
     <item>
-      <title>OSOM: A Simultaneously Optimal Algorithm for Multi-Armed and Linear Contextual Bandits</title>
+      <title>OSOM: A simultaneously optimal algorithm for multi-armed and linear contextual bandits</title>
       <link>/publication/model_selection/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/model_selection/</guid>
@@ -133,7 +141,7 @@
     </item>
     
     <item>
-      <title>Is There an Analog of Nesterov Acceleration for MCMC?</title>
+      <title>Is there an analog of Nesterov acceleration for MCMC?</title>
       <link>/publication/nesterov_mcmc/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/publication/nesterov_mcmc/</guid>
@@ -157,7 +165,7 @@
     </item>
     
     <item>
-      <title>On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo</title>
+      <title>On the theory of variance reduction for stochastic gradient Monte Carlo</title>
       <link>/publication/langevin_variancereduction/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/publication/langevin_variancereduction/</guid>
@@ -173,7 +181,7 @@
     </item>
     
     <item>
-      <title>Alternating minimization for dictionary learning: Local Convergence Guarantees</title>
+      <title>Alternating minimization for dictionary learning: Local convergence guarantees</title>
       <link>/publication/alternatingminimization/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/alternatingminimization/</guid>
@@ -181,7 +189,7 @@
     </item>
     
     <item>
-      <title>Enhancement of Spin-transfer torque switching via resonant tunneling</title>
+      <title>Enhancement of spin-transfer torque switching via resonant tunneling</title>
       <link>/publication/enhancement_spin_torque/</link>
       <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
       <guid>/publication/enhancement_spin_torque/</guid>

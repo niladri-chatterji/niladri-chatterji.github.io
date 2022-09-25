@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>On the Opportunities and Risks of Foundation Models</title>
+      <title>On the opportunities and risks of foundation models</title>
       <link>/publication/foundation_models/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/publication/foundation_models/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Langevin Monte Carlo without Smoothness</title>
+      <title>Langevin Monte Carlo without smoothness</title>
       <link>/publication/smoothness_langevin/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/smoothness_langevin/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>OSOM: A Simultaneously Optimal Algorithm for Multi-Armed and Linear Contextual Bandits</title>
+      <title>OSOM: A simultaneously optimal algorithm for multi-armed and linear contextual bandits</title>
       <link>/publication/model_selection/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       <guid>/publication/model_selection/</guid>
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo</title>
+      <title>On the theory of variance reduction for stochastic gradient Monte Carlo</title>
       <link>/publication/langevin_variancereduction/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/publication/langevin_variancereduction/</guid>
@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>Alternating minimization for dictionary learning: Local Convergence Guarantees</title>
+      <title>Alternating minimization for dictionary learning: Local convergence guarantees</title>
       <link>/publication/alternatingminimization/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       <guid>/publication/alternatingminimization/</guid>

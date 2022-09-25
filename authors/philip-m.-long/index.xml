@@ -5,12 +5,20 @@
     <link>/authors/philip-m.-long/</link>
       <atom:link href="/authors/philip-m.-long/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip M. Long</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Philip M. Long</title>
       <link>/authors/philip-m.-long/</link>
     </image>
+    
+    <item>
+      <title>Deep linear networks can benignly overfit when shallow ones do</title>
+      <link>/publication/deep_shallow_benign/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/deep_shallow_benign/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foolish crowds support benign overfitting</title>
@@ -53,7 +61,7 @@
     </item>
     
     <item>
-      <title>Oracle Lower Bounds for Stochastic Gradient Markov Chain Monte Carlo Methods</title>
+      <title>Oracle lower bounds for stochastic gradient Markov chain Monte Carlo methods</title>
       <link>/publication/lower_bound_mcmc/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/lower_bound_mcmc/</guid>
