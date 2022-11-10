@@ -177,9 +177,15 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and am currently working with &lt;a href=&#34;https://thashim.github.io/&#34; target=&#34;_blank&#34;&gt;Tatsu Hashimoto&lt;/a&gt; and &lt;a href=&#34;https://cs.stanford.edu/~pliang/&#34; target=&#34;_blank&#34;&gt;Percy Liang&lt;/a&gt;. My research interests lie at the intersection of Machine Learning and Theoretical Statistics. Some areas I am interested in and have worked on in the past include, understanding the generalization ability of interpolating learning models, Monte Carlo methods, optimization guarantees for structured non-convex problems and online learning with partial information.&lt;/p&gt;
+      <description>&lt;p&gt;(I am on the 2022-2023 Academic Job Market)&lt;/p&gt;
 
-&lt;p&gt;Previously I spent six wonderful years at UC Berkeley advised by &lt;a href=&#34;https://www.stat.berkeley.edu/~bartlett/&#34; target=&#34;_blank&#34;&gt;Peter Bartlett&lt;/a&gt;. Before that I graduated from Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.&lt;/p&gt;
+&lt;p&gt;I am a postdoctoral researcher at Stanford University. I am associated with the Stanford Artificial Intelligence Lab and work with &lt;a href=&#34;https://thashim.github.io/&#34; target=&#34;_blank&#34;&gt;Tatsu Hashimoto&lt;/a&gt; and &lt;a href=&#34;https://cs.stanford.edu/~pliang/&#34; target=&#34;_blank&#34;&gt;Percy Liang&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My research interests lie at the intersection of Machine Learning and Statistics. My current research interests center around building a theory to understand and improve neural network models. Many neural network models generalize well despite perfectly fitting noisy training data; I am interested in understanding what leads to successful generalization and optimization. I also develop techniques to make neural networks robust and think about optimal model selection for neural networks.&lt;/p&gt;
+
+&lt;p&gt;Some areas I have worked on in the past include Markov chain Monte Carlo methods, optimization for structured non-convex problems, and online learning.&lt;/p&gt;
+
+&lt;p&gt;Previously I spent six wonderful years at UC Berkeley advised by &lt;a href=&#34;https://www.stat.berkeley.edu/~bartlett/&#34; target=&#34;_blank&#34;&gt;Peter Bartlett&lt;/a&gt;. Before that, I graduated from the Indian Institute of Technology Bombay in 2015 with a dual degree B.Tech+M.Tech in Engineering Physics.&lt;/p&gt;
 </description>
     </item>
     
