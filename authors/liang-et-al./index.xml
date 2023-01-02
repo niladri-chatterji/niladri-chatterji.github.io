@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang et al. | Niladri Chatterji</title>
+    <link>/authors/liang-et-al./</link>
+      <atom:link href="/authors/liang-et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>Liang et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Liang et al.</title>
+      <link>/authors/liang-et-al./</link>
+    </image>
+    
+    <item>
+      <title>Holistic evaluation of language models</title>
+      <link>/publication/helm/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/helm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

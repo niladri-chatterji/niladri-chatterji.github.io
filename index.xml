@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Niladri Chatterji</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Niladri Chatterji</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Holistic evaluation of language models</title>
+      <link>/publication/helm/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/helm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep linear networks can benignly overfit when shallow ones do</title>
